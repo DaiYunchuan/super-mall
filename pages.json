@@ -1,0 +1,16 @@
+{
+	"pages": [{
+		"path": "pages/index/index"
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "YYGO",
+		"navigationBarBackgroundColor": "#ff94b4",
+		"backgroundColor": "#ff94b4",
+		"app-plus": {
+			"background": "white"
+		},
+		"enablePullDownRefresh": true,
+		"backgroundTextStyle": "light"
+	}
+}
